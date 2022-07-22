@@ -13,3 +13,6 @@ Descargar Python -> https://www.python.org/downloads/
 #IDE
 
 Descargar Visual Studio Code -> https://code.visualstudio.com/download
+
+NOTA
+En la rama recursos se encuentra los enunciados referentes a cada reto
