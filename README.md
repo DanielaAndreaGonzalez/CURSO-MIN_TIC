@@ -1,4 +1,4 @@
-# Curso_Min-Tic 
+# Curso_Min-Tic Python
 
 <img src="https://img2.freepng.es/20180509/gvq/kisspng-computer-icons-python-programming-language-5af3b9e657db44.4301672315259222783599.jpg" width="100" alt="accessibility text">
 
